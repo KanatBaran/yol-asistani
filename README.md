@@ -59,4 +59,4 @@ surucu-yardimcisi/           # Ana proje klasörü <br>
 
 ## Lisans
 
-Bu proje yalnızca **kişisel kullanım** amaçlıdır. Ticari veya toplu dağıtım için kullanıma izin verilmez. Detaylı şartlar için `LICENSE` dosyasını inceleyebilirsiniz.
+Bu proje yalnızca **kişisel kullanım** amaçlıdır. Ticari amaçlar için kullanıma izin verilmez.
