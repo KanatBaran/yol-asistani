@@ -42,19 +42,19 @@ Model eğitimi ve testleri FER2013 veri seti kullanılarak gerçekleştirilmişt
 
 ## Proje Dizini
 
-
-surucu-yardimcisi/           # Ana proje klasörü
-├── Models/                  # Eğitilmiş model ve sınıflayıcı dosyaları
-│   ├── model.h5             # CNN duygu analizi modeli
-│   └── haarcascade_frontalface_default.xml  # Yüz tespiti
-├── Sounds/                  # Uyarı ve müzik dosyaları
-│   ├── sleep_alert.mp3      # Uyku uyarısı sesi
-│   ├── angry.mp3            # Öfke halinde çalınacak müzik
-│   └── happy.mp3            # Mutluluk halinde çalınacak müzik
-├── main.py                  # Ana çalıştırma scripti
-├── requirements.txt         # Proje bağımlılıkları
-├── LICENSE                  # Lisans dosyası
-└── README.md                # Proje açıklaması (bu dosya)
+```
+surucu-yardimcisi/           # Ana proje klasörü <br>
+├── Models/                  # Eğitilmiş model ve sınıflayıcı dosyaları<br>
+│   ├── model.h5             # CNN duygu analizi modeli<br>
+│   └── haarcascade_frontalface_default.xml  # Yüz tespiti<br>
+├── Sounds/                  # Uyarı ve müzik dosyaları<br>
+│   ├── sleep_alert.mp3      # Uyku uyarısı sesi<br>
+│   ├── angry.mp3            # Öfke halinde çalınacak müzik<br>
+│   └── happy.mp3            # Mutluluk halinde çalınacak müzik<br>
+├── main.py                  # Ana çalıştırma scripti<br>
+├── requirements.txt         # Proje bağımlılıkları<br>
+├── LICENSE                  # Lisans dosyası<br>
+└── README.md                # Proje açıklaması (bu dosya)<br>
 ```
 
 ## Lisans
