@@ -60,3 +60,6 @@ surucu-yardimcisi/           # Ana proje klasörü <br>
 ## Lisans
 
 Bu proje yalnızca **kişisel kullanım** amaçlıdır. Ticari amaçlar için kullanıma izin verilmez.
+
+## 📬 İletişim
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
