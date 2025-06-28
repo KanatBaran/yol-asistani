@@ -1,6 +1,6 @@
 # Yapay Zeka Destekli Sürücü Yardımcısı
 
-[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/) [![License: Personal Use Only](https://img.shields.io/badge/License-Personal%20Use%20Only-red.svg)](LICENSE)]\([https://www.python.org/](https://www.python.org/)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/) [![License: Personal Use Only](https://img.shields.io/badge/License-Personal%20Use%20Only-red.svg)](LICENSE) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## İçindekiler
 
